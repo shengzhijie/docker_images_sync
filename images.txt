@@ -1,1 +1,1 @@
-mcp/playwright
+mcr.microsoft.com/playwright/dotnet
